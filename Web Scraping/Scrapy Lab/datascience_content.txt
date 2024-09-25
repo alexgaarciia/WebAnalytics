@@ -1,0 +1,6 @@
+Subjects,ECTS,TYPE,Language
+Calculus I,6,BC,
+Introduction to Data Science,6,BC,
+Linear algebra,6,BC,
+Probability and Data Analysis,6,BC,
+Programming,6,BC,
