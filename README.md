@@ -1,5 +1,5 @@
 # WebAnalytics
-This repository contains materials and projects developed during a **Web Analytics** course I completed. The content is organized into four main sections:
+This repository contains materials and projects developed during a Web Analytics course I completed. The content is organized into four main sections:
 
 ## Folder Structure
 ### 1. **Web Scraping**
